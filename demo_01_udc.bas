@@ -1,6 +1,6 @@
    10 REM ******************************
    20 REM *       AGON LIGHT 2         *
-   30 REM *          DEMO 02           *
+   30 REM *          DEMO 01           *
    40 REM *      BBC BASIC MODE 8      *
    50 REM *     User Defined Chars     *
    60 REM *      BY STEVE LOVEJOY      *
